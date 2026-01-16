@@ -20,4 +20,5 @@ desktop.ini
 # Private Memory & Identity
 .tao/memory.json
 .tao/identity.json
+.tao/memories/
 .tao/knowledge/
