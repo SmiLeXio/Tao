@@ -1,0 +1,24 @@
+{
+  "user": {
+    "name": "YOUR_NAME",
+    "nicknames": [],
+    "personality": "Describe your personality here",
+    "identity": "Your role (e.g., Developer)",
+    "interests": [],
+    "social_media": {},
+    "preferences": {
+      "communication_style": "direct",
+      "product_focus": "MVP",
+      "philosophy": "First Principles",
+      "preferred_name": "YOUR_NAME"
+    },
+    "requirements": []
+  },
+  "history": [],
+  "evolution_logs": [
+    {
+      "date": "2026-01-16",
+      "event": "System initialized from template."
+    }
+  ]
+}

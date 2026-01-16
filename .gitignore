@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Trae/IDE
+.trae/
+.vscode/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Private Memory & Identity
+.tao/memory.json
+.tao/identity.json
+.tao/knowledge/
