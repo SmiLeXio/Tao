@@ -22,3 +22,11 @@ desktop.ini
 .tao/identity.json
 .tao/memories/
 .tao/knowledge/
+
+# Environment Variables (Secrets)
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
